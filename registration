@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rejestracja - FitnessBot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section class="form-section">
+            <form>
+                <h2>Rejestracja</h2>
+                <input type="email" name="email" placeholder="Adres e-mail" required>
+                <input type="password" name="password" placeholder="Hasło" required>
+                <button type="submit">Zarejestruj się</button>
+            </form>
+            <p>Masz już konto? <a href="logowanie.html">Zaloguj się</a></p>
+        </section>
+    </main>
+</body>
+</html>
